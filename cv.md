@@ -1,22 +1,22 @@
 # Anton Shipitsin
----
+
 ## Contact information:
 * **Location:** Kazakhstan, Almaty 
 *  **Tel:** +77012233515
 *  **Mail:** antonshipitsin@gmail.com
 *  **GitHub:** [AntonShipitsin](https://github.com/AntonShipitsin) 
----
+
 ## About me:
-Hi! My name is Anton. I am from Almaty - most beautiful city in Kazakhstan.I like travel, listen and play music
+Hi. My name is Anton. I am from Almaty - most beautiful city in Kazakhstan.I like travel, listen and play music
 and recently i like to  programming and to  understand  how is tech staff  works. I am responsible and diligent and ready to learn
 something new to be a good developer in near future.
----
+
 ## Skilz:
 - HTML (basic level)
 - SCC (basic level)
 - JavaScript (basic level)
- - Figma 
- ---
+- Figma 
+ 
 ```
 <body>
     <div class="wrapper">
@@ -49,20 +49,20 @@ something new to be a good developer in near future.
 </body>
 
 ```
----
+
 ## Work Experience:
     Currently i have no experience in development. 
 
 * `2011 - 2017` -  State Brass Orcherstra.
 
 * `2017 - until now` - Field service engineer in pharmaceutical company. 
----
+
 ## Education:
 * `2004 - 2007` - Music college (musician)
 * `2007 - 2011` - National Technical  University. (computers and software)
 * `2017 - 2020` - Kainar University (information technology) 
 * YouTube 
----
+
 ## Language: 
 * **Russian** - _native_
 * **English** - _A2_
