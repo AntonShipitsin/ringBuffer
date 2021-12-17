@@ -10,10 +10,10 @@
 
 ---
 
- ## About me:
- Hi! My name is Anton. I am from Almaty - most beautiful city in Kazakhstan.I like travel, listen and play music
- and recently i like to  programming and to  understand  how is tech staff  works. I am responsible and diligent and ready to learn
- something new to be a good developer in near future.
+## About me:
+Hi! My name is Anton. I am from Almaty - most beautiful city in Kazakhstan.I like travel, listen and play music
+and recently i like to  programming and to  understand  how is tech staff  works. I am responsible and diligent and ready to learn
+something new to be a good developer in near future.
 
  ---
 
