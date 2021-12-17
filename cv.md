@@ -17,6 +17,7 @@ something new to be a good developer in near future.
 - JavaScript (basic level)
 - Figma 
  
+ 
 ```
 <body>
     <div class="wrapper">
@@ -47,7 +48,6 @@ something new to be a good developer in near future.
 }
  </script>
 </body>
-
 ```
 
 ## Work Experience:
